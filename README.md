@@ -10,9 +10,15 @@ Define evidence needed from IT to validate requested changes.
 
 Assessment Methodology:
 
+
 Inventory access: Record each user's job title, application, assigned role, and permissions.
+
 Evaluate necessity: Compare permissions with documented responsibilities and apply least-privilege principles.
+
 Ask clarifying questions: Escalate potentially excessive or mismatched access for business justification.
+
 Capture manager decisions: Record whether access should remain, be removed, or be downgraded.
+
 Specify verification evidence: Request confirmation, such as updated access records or appropriately redacted screenshots, for changes requiring IT action.
+
 Review governance weaknesses: Assess reviewer independence, completeness, transfers, executive access, and protection of review records.
